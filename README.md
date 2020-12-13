@@ -11,7 +11,7 @@ The dataset includes two parts:
 * Annotations for contextual causality knowledge is in `Contextual_dataset.json`. This file also includes all required data for implementing our model.
 
 ## Data Preparing
-* Please link the dataset `Context_dataset.json` in `"dataset_path"` of `Main.py`. 
+* Please link the dataset `Contextual_dataset.json` in `"dataset_path"` of `Main.py`. 
 * Please download [GloVe](http://nlp.stanford.edu/data/wordvecs/glove.6B.zip) word representation and rename it to `glove.txt` under this folder. 
 
 ## Train and Evaluate the VCC model
