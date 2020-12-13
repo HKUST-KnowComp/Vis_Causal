@@ -10,11 +10,11 @@ The dataset includes two parts:
 * Download images [HERE](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155160328_link_cuhk_edu_hk/EofV9h11SnZKhR8NtHX-o4YBTooSa5QxHiuQPg9bG1_eaQ?e=0EYLe2).
 * Annotations for contextual causality knowledge is in `Contextual_dataset.json`. This file also includes all required data for implementing our model.
 
-##Data Preparing
+## Data Preparing
 * Please link the dataset `Context_dataset.json` in `"dataset_path"` of `Main.py`. 
 * Please download [GloVe](http://nlp.stanford.edu/data/wordvecs/glove.6B.zip) word representation and rename it to `glove.txt` under this folder. 
 
-##Train and Evaluate the VCC model
+## Train and Evaluate the VCC model
 As in the paper, we provide five models for the task:  
 
 - NoContext
