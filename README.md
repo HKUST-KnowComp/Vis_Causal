@@ -32,4 +32,4 @@ where `model` is the model name, `lr` is the learning rate.
 Note that we leave out the resnet representation for each image in current dataset version due to the upload size limitation.
 If you want to evaluate the model in `ResNetAsContext` mode, please extract features from [ResNet-152](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py).
 
-Welcome to contact us for any questions!
+Welcome to contact us (ythuo at cse.cuhk.edu.hk) for any questions!
