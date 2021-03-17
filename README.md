@@ -9,7 +9,7 @@ The dataset includes two parts:
 
 * Download images [HERE](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155160328_link_cuhk_edu_hk/EofV9h11SnZKhR8NtHX-o4YBTooSa5QxHiuQPg9bG1_eaQ?e=0EYLe2).
 * Annotations for contextual causality knowledge is in `Contextual_dataset.json`. This file also includes all required data for implementing our model.
-* \[*Optional*\]: `video2id.json` provides video IDs in the ActivityNet which we cropped the time-consecutives images from.
+* \[*Optional*\]: `video2id.json` provides video IDs in the ActivityNet which we cropped the time-consecutive images from.
 
 ## Data Preparing
 * Please link the dataset `Contextual_dataset.json` in `"dataset_path"` of `Main.py`. 
